@@ -1,0 +1,16 @@
+D:\work\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\work\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\work\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\work\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\work\Calculator\bin\Debug\Calculator.exe.config
+D:\work\Calculator\bin\Debug\Calculator.exe
+D:\work\Calculator\bin\Debug\Calculator.pdb
+D:\work\Calculator\obj\Debug\Calculator.exe
+D:\work\Calculator\obj\Debug\Calculator.pdb
+D:\work\Calculator\obj\Debug\Calculator.csproj.Up2Date
+D:\work\Calculator\bin\Debug\MathNet.Numerics.dll
+D:\work\Calculator\bin\Debug\MathNet.Numerics.xml
+D:\work\Calculator\bin\Debug\Jace.dll
+D:\work\Calculator\bin\Debug\System.ValueTuple.dll
+D:\work\Calculator\bin\Debug\System.ValueTuple.xml
+D:\work\Calculator\obj\Debug\Calculator.Calculator.resources
